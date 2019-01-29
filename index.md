@@ -1,7 +1,6 @@
 ---
-title: My First Page
-layout: index
+layout: home
+author_profile: true
 ---
 
-
-*Testing Testing
+stuff
